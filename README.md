@@ -1,3 +1,3 @@
 # Going In Blind
-A Balatro Music Pack by @RecycledScraps /n
-Coded by @darksolomon.
+A Balatro Music Pack by @RecycledScraps and
+Coded by @darksolomon
