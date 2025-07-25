@@ -1,0 +1,10 @@
+{
+  "id": "going in blind",
+  "name": "Going In Blind",
+  "author": ["darksolomon.", "Recycled Scraps"],
+  "description": "Going In Blind is a balatro music pack, originally created by Recycled Scraps, coded by Parsa(darksolomon.)",
+  "prefix": "gib",
+  "main_file": "main.lua",
+  "version": "1.0.0",
+  "badge_colour": "fcba03"
+}
